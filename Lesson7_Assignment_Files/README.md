@@ -10,13 +10,12 @@ March 30th, 2017
 Devlin Yorker
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project was used to teach me how to use simple jquery and dom elements
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://devliny.github.io/lesson7_jquery/Lesson7_Assignment_Files/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to link js files to index files
+2. I learned how to use DOM feautures
+3. I learned how to add simple features to a static webpage
