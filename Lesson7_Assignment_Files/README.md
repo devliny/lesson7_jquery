@@ -4,10 +4,10 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 30th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Devlin Yorker
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
